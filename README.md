@@ -21,4 +21,4 @@ I'm a 21-year-old developer based in Brazil, and I'm passionate about new experi
 * Reading is one of my hobbies and I don't have a preference for a specific type of book.
 ## 📬 Contact
 
-For a quick response, DM me on [Linkedin](www.linkedin.com/in/livia-acácio-s-maia-871b3b1b9) or my email liviaasmaia@gmail.com
+For a quick response, DM me on [Linkedin]([www.linkedin.com/in/livia-acácio-s-maia-871b3b1b9](https://www.linkedin.com/in/livia-ac%C3%A1cio-s-maia-871b3b1b9/)) or my email liviaasmaia@gmail.com
