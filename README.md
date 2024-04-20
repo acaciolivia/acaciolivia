@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**acaciolivia/acaciolivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Lívia
 
-Here are some ideas to get you started:
+I'm a 21-year-old developer based in Brazil, and I'm passionate about new experiences and opportunities to learn something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📦 Toolbox
+
+**Frontend Development:** Angular, Angular js, primefaces
+
+**Version Control:** Git, GitLab, Bitbucket
+
+**Backend Development:** Java, Kotlin, JavaScript
+
+**Others:** Jira,  Scrum, kanban
+## ✨Fun Facts
+
+* My sports are currently CrossFit and bodybuilding, but I always give opportunities to other sports.
+
+* Reading is one of my hobbies and I don't have a preference for a specific type of book.
+## 📬 Contact
+
+For a quick response, DM me on [Linkedin](www.linkedin.com/in/livia-acácio-s-maia-871b3b1b9) or my email liviaasmaia@gmail.com
