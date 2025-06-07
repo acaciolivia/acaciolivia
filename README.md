@@ -16,7 +16,7 @@ I'm a 21-year-old developer based in Brazil, and I'm passionate about new experi
 **Others:** Jira,  Scrum, kanban
 ## ✨Fun Facts
 
-* My sports are currently CrossFit and bodybuilding, but I always give opportunities to other sports.
+* My sports are currently Brazilian jiu-jitsu and bodybuilding, but I always give opportunities to other sports.
 
 * Reading is one of my hobbies and I don't have a preference for a specific type of book.
 ## 📬 Contact
