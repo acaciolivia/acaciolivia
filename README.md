@@ -1,7 +1,7 @@
 
 # Hey, I'm Lívia
 
-I'm a 21-year-old developer based in Brazil, and I'm passionate about new experiences and opportunities to learn something new.
+I'm a 22-year-old developer based in Brazil, and I'm passionate about new experiences and opportunities to learn something new.
 
 
 
