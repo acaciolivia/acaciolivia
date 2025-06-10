@@ -11,7 +11,7 @@ I'm a 22-year-old developer based in Brazil, and I'm passionate about new experi
 
 **Version Control:** Git, GitLab, Bitbucket
 
-**Backend Development:** Java, Kotlin, JavaScript
+**Backend Development:** Java, Kotlin, JavaScript, python
 
 **Others:** Jira,  Scrum, kanban
 ## ✨Fun Facts
